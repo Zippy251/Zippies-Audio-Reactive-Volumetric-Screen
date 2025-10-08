@@ -6,3 +6,4 @@ Instructions for use
 2) Assign the Volumetric Material to the plane
 3) Assign a render texture to the Volumetric Material (it does not need to be the one included in the package)
 4) Profit
+5) play bad apple on it
